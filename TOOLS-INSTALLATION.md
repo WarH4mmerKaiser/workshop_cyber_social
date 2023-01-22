@@ -4,8 +4,8 @@
 
 Before going on, please run :
 
-    'sudo apt upgrade'
-    'sudo apt update'
+    sudo apt upgrade
+    sudo apt update
 
 ### MSFVENOM
 
