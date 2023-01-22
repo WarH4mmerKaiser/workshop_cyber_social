@@ -3,7 +3,7 @@
 ## REQUIREMENTS
 
 ### Material requirement :
-    - operational computer
+    • operational computer
 
 ### IT requirement :
     - windows dump
