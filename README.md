@@ -19,6 +19,7 @@ On your virtual kali, you'll need some tools :
 IMPORTANT : all of those tools are normaly pre-installed on your dump, if it's not the case please go to 'TOOLS-INSTALLATION.md' on this repo and don't forget to test the correct installation of these tools by starting them in terminal before the workshop
 
 For the target research, you can install facultative OSINT tools of your choice, here's a cool one :
+
     • 'mr.holmes' (see 'TOOLS-INSTLLATION.md')
 
 ### Skills requirement :
