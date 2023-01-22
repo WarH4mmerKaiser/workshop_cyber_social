@@ -20,7 +20,7 @@ IMPORTANT : all of those tools are normaly pre-installed on your dump, if it's n
 
 For the target research, you can install facultative OSINT tools of your choice, here's a cool one :
 
-    • 'mr.holmes' (see 'TOOLS-INSTLLATION.md')
+    • 'mr.holmes' (see 'TOOLS-INSTALLATION.md')
 
 ### Skills requirement :
     • there is no skill required for this workshop, you'll learn to manipulate open-source tools so you'll not code a lot !
