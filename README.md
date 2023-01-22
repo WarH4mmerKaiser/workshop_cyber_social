@@ -1,11 +1,11 @@
-### WORKSHOP CYBERSECURITY, FOCUS ON SOCIAL ENGINEERING
+# WORKSHOP CYBERSECURITY, FOCUS ON SOCIAL ENGINEERING
 
 ## REQUIREMENTS
 
-# Material requirement :
+### Material requirement :
     - operational computer
 
-# IT requirement :
+### IT requirement :
     - windows dump;com
     - kali linux virtual machine installed on this windows dump (tuto to install kali virtual machine : https://wwww.youtube.com/the_vid)
 
@@ -34,7 +34,7 @@ So this is the steps we'll follow :
     - creation of the attack items (see 'ATTACK-CREATION.md')
     - by making groups of 2, you'll test your malwares on your duo computer (don't worry, if the rules are respected there's no risks for your computer !)
 
-## DISCLAIMER
+### DISCLAIMER
 
 By participating to this workshop, you agree to do and only do the things indicated in this workshop.
 Your responsability will be engaged if you decide to do anything that could harm somebody else computer or integrity, especialy during the testing phase.
