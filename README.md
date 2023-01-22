@@ -7,7 +7,7 @@
 
 ### IT requirement :
     • windows dump
-    • kali linux virtual machine installed on this windows dump (tuto to install kali virtual machine : https://wwww.youtube.com/the_vid)
+    • kali linux virtual machine installed on this windows dump (tuto to install kali virtual machine : https://www.youtube.com/watch?v=Zwb_67ENDIg)
 
 IMPORTANT : be sure to be able to connect your virtual machine to wifi by testing it before the workshop
 
