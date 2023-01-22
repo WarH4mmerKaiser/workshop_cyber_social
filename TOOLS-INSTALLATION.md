@@ -7,9 +7,8 @@ Before going on, please run :
     sudo apt upgrade
     sudo apt update
 
-### MSFVENOM
-
-### MSFCONSOLE
+### MSFVENOM & MSFCONSOLE
+    sudo apt install metasploit-framework
 
 ### SET
 
