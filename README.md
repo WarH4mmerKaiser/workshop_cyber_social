@@ -12,6 +12,7 @@
 IMPORTANT : be sure to be able to connect your virtual machine to wifi by testing it before the workshop
 
 On your virtual kali, you'll need some tools :
+
     • 'msfvenom'
     • 'msfconsole'
     • 'set' (for 'social engineering toolkit')
