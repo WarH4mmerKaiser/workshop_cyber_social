@@ -2,7 +2,7 @@
 
 ## REQUIREMENTS
 
-### Material requirement :
+### Material requirement
     • operational computer
 
 ### IT requirement :
