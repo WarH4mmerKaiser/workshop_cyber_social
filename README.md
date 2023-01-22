@@ -6,7 +6,7 @@
     - operational computer
 
 ### IT requirement :
-    - windows dump;com
+    - windows dump
     - kali linux virtual machine installed on this windows dump (tuto to install kali virtual machine : https://wwww.youtube.com/the_vid)
 
 IMPORTANT : be sure to be able to connect your virtual machine to wifi by testing it before the workshop
@@ -21,7 +21,7 @@ IMPORTANT : all of those tools are normaly pre-installed on your dump, if it's n
 For the target research, you can install facultative OSINT tools of your choice, here's a cool one :
     - 'mr.holmes' (see 'TOOLS-INSTLLATION.md')
 
-# Skills requirement :
+### Skills requirement :
     - there is no skill required for this workshop, you'll learn to manipulate open-source tools so you'll not code a lot !
 
 ## WORKSHOP
