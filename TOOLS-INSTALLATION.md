@@ -22,7 +22,7 @@ Before going on, please run :
 During the installation phase, the program will ask you few informations.
 For the WHO-IS-XLMAPI-KEY, PROXY LIST and other technical stuff about the DATABASE you can say no or let the fields empty, except if you want to keep the tool after using it.
 
-To check if the programs are correctly installed please try :
+## To check if the programs are correctly installed please try :
     msfvenom -h
     msfconsole -h
     setoolkit, then ctrl+C
